@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 I'm Joseph Asare, an Electrical/Electronic Engineer.
 
-<!--
-**asare-21/asare-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asare-21&show_icons=true&theme=radical) -->
 
-Here are some ideas to get you started:
+### About Me ###
+----------------------------------------------------------------------------------------------------------------------------
+- Electronic Engineer 🎓👷‍♀️ 
+- Mobile Development (Flutter) 😎
+- Open Source  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills ###
+----------------------------------------------------------------------------------------------------------------------------
+- Languages - **Dart, Python, HTML, CSS, JavaScript**
+- Libraries/Frameworks: - **Flutter, React, Node.js**
+- Databases/ODM: - **Firebase and Mongodb**
+- Tools: - **Git, Github and Developer Tool**
+
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asare-21)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asare-21&count_private=true$theme=radical)
+
+
+
+
