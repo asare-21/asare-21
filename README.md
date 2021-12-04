@@ -4,8 +4,8 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Electronic Engineer 🎓👷‍♀️ 
-- Mobile Development (Flutter) 😎
+- Electrical Engineer 🎓👷‍♀️ 
+- Mobile Development (Flutter)
 - Open Source  
 <br>
 
