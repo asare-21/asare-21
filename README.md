@@ -17,8 +17,8 @@
 - Tools: - **Git, Github and Developer Tool**
 
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asare-21)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asare-21&count_private=true$theme=radical)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asare-21&hide=css)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asare-21&count_private=true&theme=radical)
 
 
 
