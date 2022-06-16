@@ -1,13 +1,7 @@
-### Hi there 👋 I'm Joseph Asare, an Electrical/Electronic Engineer.
+### Hi there 👋 I'm Joseph Asare.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asare-21&show_icons=true&theme=radical) -->
 
-### About Me ###
-----------------------------------------------------------------------------------------------------------------------------
-- Electrical Engineer 🎓👷‍♀️ 
-- Mobile Development (Flutter)
-- Open Source  
-<br>
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
