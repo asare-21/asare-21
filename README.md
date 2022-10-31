@@ -15,7 +15,7 @@
 <div align="center" ><img src="https://komarev.com/ghpvc/?username=asare-21&style=flat-square&color=blue" alt=""/></div>
 </div>
 <h1>
-  Hey! Joseph here☺
+  Hey! Joseph☺
 </h1>
 
 ### Languages and Tools:
