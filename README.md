@@ -13,7 +13,7 @@
 <div align="center" ><img src="https://komarev.com/ghpvc/?username=asare-21&style=flat-square&color=blue" alt=""/></div>
 </div>
 <h1>
-  Hey! I'm Joseph
+  Hi, I'm Joseph
 </h1>
 
 ### Languages and Tools:
@@ -29,8 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" **alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+
   
 </div>
 
