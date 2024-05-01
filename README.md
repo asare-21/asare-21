@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asare-21&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asare-21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=asare-21&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
