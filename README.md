@@ -1,8 +1,8 @@
-# Hi there, I'm Asare! 👋
+# Hi there, I'm Joseph! 👋
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Backend+Specialist;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Joseph!;Full+Stack+Developer;Mobile+App+Developer;Backend+Specialist;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 I'm a passionate **Full Stack Developer** with expertise in building web and mobile applications. I love turning ideas into reality through clean, efficient code and user-friendly interfaces.
 
-- 🔭 I'm currently working on exciting projects using **Flutter**, **Python**, and **JavaScript**
+- 🔭 I'm currently working on exciting projects using **Flutter**, **Python**, **JavaScript**, and **Go**
 - 🌱 I'm constantly learning and exploring new technologies
 - 💡 I enjoy solving complex problems and building scalable solutions
 - 🤝 I'm open to collaborating on innovative projects
@@ -24,6 +24,7 @@ I'm a passionate **Full Stack Developer** with expertise in building web and mob
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
