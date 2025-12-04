@@ -88,16 +88,6 @@ I'm a passionate **Full Stack Developer** with expertise in building web and mob
 
 ---
 
-### ✍️ Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
-</div>
-
----
-
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=asare-21&icon=0&color=0)](https://visitcount.itsvg.in)
