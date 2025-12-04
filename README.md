@@ -83,7 +83,6 @@ I'm a passionate **Full Stack Developer** with expertise in building web and mob
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-asare-583a301a0)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asare-21)
 
 </div>
 
