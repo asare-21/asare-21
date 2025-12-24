@@ -8,7 +8,7 @@
 
 I'm a passionate **Full-Stack Developer** with a strong focus on backend systems and mobile applications. I enjoy architecting scalable solutions, building intuitive user experiences, and turning complex ideas into clean, maintainable code.
 
-- 🔭 **Currently working on:** Projects leveraging **Flutter**, **Python**, **JavaScript**, and **Go**
+- 🔭 **Currently working on:** Projects leveraging **Flutter**, **Python**, and **JavaScript**
 - 🌱 **Learning & exploring:** System design, cloud architecture, and performance optimization
 - 💡 **Interests:** Backend development, mobile apps, API design, and open-source contributions
 - 🤝 **Looking to collaborate on:** Innovative projects, especially in fintech, edtech, or developer tools
